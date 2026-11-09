@@ -40,3 +40,4 @@ app/src/main/java/com/example/smartpantry/
 ```
 <!-- Update 1 for Tariq Ally 402308141 -->
 <!-- Update 2 for Tariq Ally 402308141 -->
+<!-- Update 3 for Tariq Ally 402308141 -->
