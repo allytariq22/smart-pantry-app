@@ -38,3 +38,4 @@ app/src/main/java/com/example/smartpantry/
   ui/      Activities, adapters, NavHelper
   util/    AppPrefs, Format
 ```
+<!-- Update 1 for Tariq Ally 402308141 -->
